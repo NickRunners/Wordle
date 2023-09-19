@@ -1,1 +1,1 @@
-# project-wordle
+# Wordle
